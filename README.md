@@ -5,7 +5,8 @@
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with good blockchain developer
 - 💬 Ask me about Blockchain , DeFi 
-- 📫 How to reach me: https://www.linkedin.com/in/shubham-kushwaha-038940249/,https://twitter.com/shubham89778772
+- 📫 How to reach me: https://www.linkedin.com/in/shubham-kushwaha-038940249/
+-     https://twitter.com/shubham89778772
 - ⚡ Fun fact: i love sleeping
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -29,6 +30,8 @@ I'm [Shubham kumar kushwaha], a passionate developer with expertise in various t
 - ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) - Developing efficient and high-performance applications in C++.
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Quadwinner&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Quadwinner&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 Feel free to explore my repositories and get in touch!
 
