@@ -22,18 +22,10 @@ I'm [Your Name], a passionate developer with expertise in various technologies. 
 - ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white) - Managing packages and dependencies with npm is second nature to me.
 - ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) - Containerizing applications for seamless deployment and scalability.
 
-## Projects
-
-- **[Project Name 1](https://github.com/yourusername/project1)** - Brief description of the project.
-- **[Project Name 2](https://github.com/yourusername/project2)** - Brief description of the project.
-
-## Interests
-
 - ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white) - Organizing my thoughts and projects with Notion.
 - ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white) - Exploring systems programming and performance optimization in Rust.
 - ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) - Backend development using Node.js for robust and scalable server-side applications.
 - ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) - Crafting fast and modern web applications with Next.js.
 - ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) - Developing efficient and high-performance applications in C++.
-
 Feel free to explore my repositories and get in touch!
 
