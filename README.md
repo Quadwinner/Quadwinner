@@ -31,6 +31,8 @@ I'm [Shubham kumar kushwaha], a passionate developer with expertise in various t
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Quadwinner&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Quadwinner&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Quadwinner&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 Feel free to explore my repositories and get in touch!
