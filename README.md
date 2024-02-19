@@ -28,6 +28,8 @@ I'm [Shubham kumar kushwaha], a passionate developer with expertise in various t
 - ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) - Backend development using Node.js for robust and scalable server-side applications.
 - ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) - Crafting fast and modern web applications with Next.js.
 - ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) - Developing efficient and high-performance applications in C++.
+- ![Kotlin](https://img.shields.io/badge/Kotlin-007396?style=for-the-badge&logo=kotlin&logoColor=white)
+
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Quadwinner&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Quadwinner&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
