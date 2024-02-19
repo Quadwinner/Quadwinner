@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on PoA(proof of authority)
 - 🌱 I’m currently learning Rust,Typescript,and 
-- 👯 I’m looking to collaborate on 
+- 👯 I’m looking to collaborate on web3 development
 - 🤔 I’m looking for help with good blockchain developer
 - 💬 Ask me about Blockchain , DeFi 
 - 📫 How to reach me: https://www.linkedin.com/in/shubham-kushwaha-038940249/
