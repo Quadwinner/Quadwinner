@@ -13,7 +13,7 @@
 </div>
 # Hi there! 👋
 
-I'm [Shubham kumar kushwaha], a passionate developer with expertise in various technologies. Here's a glimpse of my skills and interests:
+I'm Shubham kumar kushwaha, a passionate developer with expertise in various technologies. Here's a glimpse of my skills and interests:
 
 ## Skills
 
