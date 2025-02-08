@@ -96,10 +96,7 @@ Here are some of my notable projects:
 
 ---
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Quadwinner&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Quadwinner&layout=compact&theme=radical)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Quadwinner&theme=radical)
+
 
 ---
 
