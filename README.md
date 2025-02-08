@@ -19,9 +19,6 @@ I’m **Shubham Kumar Kushwaha**, a passionate developer specializing in blockch
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-# Hi there! 👋
-
-I'm Shubham kumar kushwaha, a passionate developer with expertise in various technologies. Here's a glimpse of my skills and interests:
 
 ## Skills
 
