@@ -64,7 +64,6 @@ Here are some of my notable projects:
 I’m always open to new opportunities, collaborations, and discussions. Feel free to reach out via:
 - LinkedIn: [shubham-kushwaha](https://www.linkedin.com/in/shubham-kushwaha-038940249/)
 - Twitter: [@shubham89778772](https://twitter.com/shubham89778772)
-- Email: your-email@example.com
-
+- Email: shubhamkush012@gmail.com
 Let’s build something amazing together! 🚀!
 
