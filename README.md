@@ -36,10 +36,12 @@ I’m **Shubham Kumar Kushwaha**, a passionate developer specializing in blockch
 - ![Kotlin](https://img.shields.io/badge/Kotlin-007396?style=for-the-badge&logo=kotlin&logoColor=white)- Developing android with kotlin with passion.
 
 
+<!-- GitHub Stats -->
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Quadwinner&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Quadwinner&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Quadwinner&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 ![Achievement Badge](https://img.shields.io/badge/Achievement-Completed-brightgreen)
+
 
 
 <div align="center">
