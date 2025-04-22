@@ -4,7 +4,7 @@ I’m **Shubham Kumar Kushwaha**, a passionate developer specializing in blockch
 ---
 
 ## 🌟 About Me
-- 🔭 I’m currently working on **PoA (Proof of Authority)**.
+- 🔭 I’m currently working on **Solana Based payment Gateway**.
 - 🌱 I’m currently learning **Rust**, **TypeScript**, and more.
 - 👯 I’m looking to collaborate on **web3 development**.
 - 🤔 I’m looking for help with becoming a better blockchain developer.
