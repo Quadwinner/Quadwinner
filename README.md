@@ -1,9 +1,16 @@
-<!-- Header Banner -->
+<!-- Animated Header Banner -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25&height=250&section=header&text=Shubham%20Kumar%20Kushwaha&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Web2%20%26%20Web3%20Developer&descAlignY=60&descSize=20"/>
+</div>
+
+<!-- Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=4000&pause=1000&color=2F81F7&center=true&vCenter=true&repeat=true&random=false&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Shubham;Full+Stack+Developer;Blockchain+%26+Web3+Expert;Building+Web2+%2B+Web3+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&repeat=true&random=false&width=800&lines=Building+Scalable+Web2+Applications;Crafting+Secure+Smart+Contracts;Exploring+the+Depths+of+Solana+%26+Ethereum;Turning+Coffee+into+Code+%E2%98%95" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">🚀 Full Stack Developer | 🔗 Blockchain & Web3 Enthusiast | 💻 Building Modern Digital Experiences</h3>
+<div align="center">
+  <h3>🚀 Transforming Ideas into Digital Reality</h3>
+</div>
 
 <br/>
 
