@@ -1,71 +1,266 @@
-# 👋 Hi there!
-I’m **Shubham Kumar Kushwaha**, a passionate developer specializing in blockchain, web3, and decentralized technologies. I love building innovative solutions and exploring new technologies.
-
----
-
-## 🌟 About Me
-- 🔭 I’m currently working on **Solana Based payment Gateway**.
-- 🌱 I’m currently learning **Rust**, **TypeScript**, and more.
-- 👯 I’m looking to collaborate on **web3 development**.
-- 🤔 I’m looking for help with becoming a better blockchain developer.
-- 💬 Ask me about **Blockchain**, **DeFi**, or anything tech-related!
-- 📫 How to reach me:
-  - LinkedIn: [shubham-kushwaha](https://www.linkedin.com/in/shubham-kushwaha-038940249/)
-  - Twitter: [@shubham89778772](https://twitter.com/shubham89778772)
-- ⚡ Fun fact: I love sleeping so much that I once slept through an earthquake. 🛌💤
-
----
-- ⚡ Fun fact: i love sleeping
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<!-- Animated Header -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shubham%20Kumar%20Kushwaha&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Blockchain%20Developer%20|%20Web3%20Enthusiast%20|%20Full%20Stack%20Developer&descAlignY=52&descSize=18"/>
 </div>
 
-## Skills
+<!-- Typing Animation -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6E57F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=%F0%9F%9A%80+Building+the+Decentralized+Future;%F0%9F%94%97+Solana+%7C+Ethereum+%7C+DeFi+%7C+Web3;%F0%9F%92%BB+Turning+Ideas+into+Reality" alt="Typing SVG" />
+  </a>
+</div>
 
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white) - I love building dynamic and interactive web applications with JavaScript.
-- ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white) - Smart contracts on the Ethereum blockchain? Count me in!
-- ![React](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=white) - Building responsive and scalable UIs with React is my forte.
-- ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white) - Managing packages and dependencies with npm is second nature to me.
-- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) - Containerizing applications for seamless deployment and scalability.
+<!-- Profile Views & Social Badges -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Quadwinner&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+  <a href="https://github.com/Quadwinner?tab=followers">
+    <img src="https://img.shields.io/github/followers/Quadwinner?label=Followers&style=for-the-badge&color=blue" alt="GitHub followers"/>
+  </a>
+  <a href="https://github.com/Quadwinner?tab=repositories&sort=stargazers">
+    <img src="https://img.shields.io/github/stars/Quadwinner?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=yellow" alt="GitHub Stars"/>
+  </a>
+</div>
 
-- ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white) - Organizing my thoughts and projects with Notion.
-- ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white) - Exploring systems programming and performance optimization in Rust.
-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) - Backend development using Node.js for robust and scalable server-side applications.
-- ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) - Crafting fast and modern web applications with Next.js.
-- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) - Developing efficient and high-performance applications in C++.
-- ![Kotlin](https://img.shields.io/badge/Kotlin-007396?style=for-the-badge&logo=kotlin&logoColor=white)- Developing android with kotlin with passion.
+<br/>
 
+<!-- Social Links -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/shubham-kushwaha-038940249/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/shubham89778772">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="mailto:shubhamkush012@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
 
-<!-- GitHub Stats -->
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Quadwinner&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Quadwinner&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Quadwinner&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-![Achievement Badge](https://img.shields.io/badge/Achievement-Completed-brightgreen)
+<br/>
 
+<!-- About Me Section -->
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
+## 🧑‍💻 About Me
+
+<p align="left">
+  <samp>
+Hey there! I'm <b>Shubham</b>, a passionate <b>Blockchain Developer</b> and <b>Full Stack Web3 Engineer</b> from India 🇮🇳
+  </samp>
+</p>
+
+- 🔭 Currently building a **Solana-based Payment Gateway**
+- 🌱 Learning **Rust**, **Anchor Framework**, and **Advanced TypeScript**
+- 👯 Open to collaborate on **Web3 & DeFi projects**
+- 💡 Exploring **Smart Contract Security** & **Zero Knowledge Proofs**
+- 💬 Ask me about **Blockchain, DeFi, Solana, Ethereum**
+- ⚡ Fun fact: I love sleeping so much that I once **slept through an earthquake!** 🛌💤
+
+<br clear="both"/>
+
+---
+
+<!-- Tech Stack Section -->
+## 🛠️ Tech Arsenal
 
 <div align="center">
-  <img src="https://via.placeholder.com/1200x300.png?text=Shubham+Kumar+Kushwaha+-+Blockchain+%26+Web3+Developer" alt="Banner" width="100%">
+
+### 💻 Languages & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=rust,solidity,ts,js,python,kotlin,cpp,nodejs,react,nextjs,flutter" />
+</p>
+
+### ⛓️ Blockchain & Web3
+<p>
+  <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" alt="Solana"/>
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum"/>
+  <img src="https://img.shields.io/badge/Anchor-0066FF?style=for-the-badge&logo=anchor&logoColor=white" alt="Anchor"/>
+  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3.js"/>
+  <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black" alt="Hardhat"/>
+  <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" alt="IPFS"/>
+</p>
+
+### 🔧 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,figma,linux,vercel,firebase,mongodb,postgres" />
+</p>
+
 </div>
-
-
-## 🚀 Projects
-Here are some of my notable projects:
-- **[Project Name 1](link-to-repo)**: Brief description of the project.
-- **[Project Name 2](link-to-repo)**: Brief description of the project.
-- **[Project Name 3](link-to-repo)**: Brief description of the project.
 
 ---
 
-## 🏆 Achievements
-- Open-source contributor to [Project Name](link-to-project).
-- Published articles on blockchain and web3 on [Medium](link-to-medium).
-- Certified in [Certification Name] from [Organization].
+<!-- Featured Projects Section -->
+## 🚀 Featured Projects
 
-## 🤝 Let’s Connect!
-I’m always open to new opportunities, collaborations, and discussions. Feel free to reach out via:
-- LinkedIn: [shubham-kushwaha](https://www.linkedin.com/in/shubham-kushwaha-038940249/)
-- Twitter: [@shubham89778772](https://twitter.com/shubham89778772)
-- Email: shubhamkush012@gmail.com
-Let’s build something amazing together! 🚀!
- enhance this accoring to my profile
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🛫 JetSetter</h3>
+        <div align="center">
+          <a href="https://github.com/Quadwinner/jetsetter" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Quadwinner&repo=jetsetter&theme=tokyonight&hide_border=true" alt="JetSetter"/>
+          </a>
+          <p><strong>JavaScript • Travel Platform</strong></p>
+          <p>A modern travel booking platform with seamless UX</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">📱 JetSetter Android</h3>
+        <div align="center">
+          <a href="https://github.com/Quadwinner/jetsetter-android" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Quadwinner&repo=jetsetter-android&theme=tokyonight&hide_border=true" alt="JetSetter Android"/>
+          </a>
+          <p><strong>JavaScript • Mobile App</strong></p>
+          <p>Cross-platform mobile travel companion app</p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">⚓ Anchor (Solana)</h3>
+        <div align="center">
+          <a href="https://github.com/Quadwinner/anchor" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Quadwinner&repo=anchor&theme=tokyonight&hide_border=true" alt="Anchor"/>
+          </a>
+          <p><strong>Rust • Solana Framework</strong></p>
+          <p>Contributing to the Solana program framework</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">🎮 Epicesports</h3>
+        <div align="center">
+          <a href="https://github.com/Quadwinner/Epicesports" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Quadwinner&repo=Epicesports&theme=tokyonight&hide_border=true" alt="Epicesports"/>
+          </a>
+          <p><strong>TypeScript • Gaming Platform</strong></p>
+          <p>Esports tournament & gaming platform</p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">✨ Alouora</h3>
+        <div align="center">
+          <a href="https://github.com/Quadwinner/Alouora" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Quadwinner&repo=Alouora&theme=tokyonight&hide_border=true" alt="Alouora"/>
+          </a>
+          <p><strong>TypeScript • Web Application</strong></p>
+          <p>Modern full-stack web application</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">📊 Stratnova</h3>
+        <div align="center">
+          <a href="https://github.com/Quadwinner/Stratnova" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Quadwinner&repo=Stratnova&theme=tokyonight&hide_border=true" alt="Stratnova"/>
+          </a>
+          <p><strong>PHP • Strategy Platform</strong></p>
+          <p>Strategic planning & analytics platform</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<!-- GitHub Stats Section -->
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Quadwinner&show_icons=true&count_private=true&hide_border=true&title_color=6E57F7&icon_color=6E57F7&text_color=c9d1d9&bg_color=0d1117" alt="Shubham's GitHub Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quadwinner&layout=compact&hide_border=true&title_color=6E57F7&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Quadwinner&theme=tokyonight_duo&hide_border=true&stroke=0000&background=0D1117&ring=6E57F7&fire=6E57F7&currStreakLabel=6E57F7" alt="GitHub Streak"/>
+</div>
+
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Quadwinner&custom_title=Shubham's%20Contribution%20Graph&bg_color=0d1117&color=6E57F7&line=6E57F7&point=FFFFFF&area_color=6E57F7&area=true&hide_border=true" alt="Contribution Graph"/>
+</div>
+
+---
+
+<!-- Trophies Section -->
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Quadwinner&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
+</div>
+
+---
+
+<!-- Snake Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+<!-- Currently Learning -->
+## 📚 Currently Learning
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🦀_Rust-Advanced%20Concepts-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/⚓_Anchor-Solana%20Programs-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🔐_ZK_Proofs-Cryptography-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🛡️_Smart_Contract-Security-red?style=for-the-badge"/>
+</div>
+
+---
+
+<!-- Quote Section -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
+
+---
+
+<!-- Connect Section -->
+## 🤝 Let's Connect & Build Together!
+
+<div align="center">
+  <p><em>I'm always excited to collaborate on innovative Web3 projects and blockchain solutions!</em></p>
+  
+  <a href="https://www.linkedin.com/in/shubham-kushwaha-038940249/">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/shubham89778772">
+    <img src="https://img.shields.io/badge/Follow_on_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="mailto:shubhamkush012@gmail.com">
+    <img src="https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
+
+<br/>
+
+<!-- Support Section -->
+<div align="center">
+  <p>If you like my work, consider buying me a coffee! ☕</p>
+  <a href="https://www.buymeacoffee.com" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="50"/>
+  </a>
+</div>
+
+---
+
+<!-- Footer -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=6E57F7&center=true&vCenter=true&repeat=true&random=false&width=600&lines=Thanks+for+visiting!+%F0%9F%99%8F;Let's+build+the+decentralized+future+together!+%F0%9F%9A%80" alt="Footer Typing"/>
+</div>
+
+<!--
+Made with ❤️ by Shubham Kumar Kushwaha
+-->
