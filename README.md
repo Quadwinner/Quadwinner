@@ -1,10 +1,10 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:36BCF7&height=200&section=header&text=Shubham%20Kumar%20Kushwaha&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Co-Founder%20%26%20CTO%2C%20NivixPe%20%7C%20Full%20Stack%20Web2%20%26%20Web3%20Developer&descAlignY=55&descSize=16" width="100%" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:36BCF7&height=200&section=header&text=Shubham%20Kumar%20Kushwaha&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web2%20%26%20Web3%20Developer&descAlignY=55&descSize=18" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&repeat=true&width=700&lines=Building+Cross-Border+Payments+on+Solana+%E2%9B%93%EF%B8%8F;Solana+%E2%80%A2+Rust+%2F+Anchor+%E2%80%A2+React+%2F+Node;Turning+Coffee+into+Code+%E2%98%95" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&repeat=true&width=700&lines=Building+Cross-Border+Payments+on+Solana;Crafting+Secure+Smart+Contracts;Exploring+Web3+%26+Full-Stack+Development;Turning+Coffee+into+Code+%E2%98%95" alt="Typing SVG" />
 </div>
 
 <!-- Social Badges -->
@@ -88,7 +88,7 @@ const shubham = {
 
 ### ⛓️ [NivixPe](https://www.nivixpe.com/)
 
-Blockchain-powered cross-border payments built on Solana — near-zero fees, sub-2-second settlement. Incubated at Bennett Hatchery, seed-funded. Currently pre-launch, India–UAE beta opening soon — [join the waitlist](https://www.nivixpe.com/).
+Blockchain-powered cross-border payments built on Solana — near-zero fees, sub-2-second settlement. Incubated at Bennett Hatchery, seed-funded. Currently pre-launch, India–UAE beta opening soon.
 
 <img src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white"/>
 <img src="https://img.shields.io/badge/Rust%20%2F%20Anchor-663399?style=flat-square&logo=rust&logoColor=white"/>
@@ -122,7 +122,7 @@ Solana program built with the Anchor framework — Rust smart contract developme
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Quadwinner&show_icons=true&count_private=true&hide_border=true&title_color=2F81F7&icon_color=2F81F7&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats"/>
-  <img width="49%" src="https://streak-stats.demolab.com/?user=Quadwinner&hide_border=true&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&background=0d1117" alt="GitHub Streak"/>
+  <img width="49%" src="https://streak-stats.demolab.com/?user=Quadwinner&hide_border=true&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&background=0d1117" alt="GitHub Streak Stats"/>
 </div>
 
 <div align="center">
