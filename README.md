@@ -203,11 +203,11 @@ Hey there! I'm <b>Shubham</b>, a passionate <b>Full Stack Developer</b> with dee
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Quadwinner&show_icons=true&count_private=true&hide_border=true&title_color=2F81F7&icon_color=2F81F7&text_color=333333&bg_color=ffffff" alt="GitHub Stats"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=Quadwinner&show_icons=true&count_private=true&hide_border=true&title_color=2F81F7&icon_color=2F81F7&text_color=333333&bg_color=ffffff" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quadwinner&layout=compact&hide_border=true&title_color=2F81F7&text_color=333333&bg_color=ffffff&theme=default" alt="Top Languages"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Quadwinner&layout=compact&hide_border=true&title_color=2F81F7&text_color=333333&bg_color=ffffff&theme=default" alt="Top Languages"/>
 </p>
 
 <p align="center">
