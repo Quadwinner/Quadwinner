@@ -85,39 +85,35 @@ const shubham = {
 ## 🚀 Featured Work
 
 <div align="center">
-<table>
-  <tr>
-    <td width="100%" valign="top">
-      <h3 align="center">⛓️ <a href="https://www.nivixpe.com/">NivixPe</a></h3>
-      <p align="center">Blockchain-powered cross-border payments built on Solana — near-zero fees, sub-2-second settlement. Incubated at Bennett Hatchery, seed-funded. Currently pre-launch, India–UAE beta opening soon — <a href="https://www.nivixpe.com/">join the waitlist</a>.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Rust%20%2F%20Anchor-663399?style=flat-square&logo=rust&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Pre--launch-orange?style=flat-square"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🛫 <a href="https://www.jetsetterss.com/">JetSetter</a></h3>
-      <p align="center">Luxury travel platform for cruises, hotels, and flights — live site with cruise API integration.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">⚓ <a href="https://github.com/Quadwinner/anchor">Anchor Program</a></h3>
-      <p align="center">Solana program built with the Anchor framework — Rust smart contract development on-chain.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-</table>
+
+### ⛓️ [NivixPe](https://www.nivixpe.com/)
+
+Blockchain-powered cross-border payments built on Solana — near-zero fees, sub-2-second settlement. Incubated at Bennett Hatchery, seed-funded. Currently pre-launch, India–UAE beta opening soon — [join the waitlist](https://www.nivixpe.com/).
+
+<img src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white"/>
+<img src="https://img.shields.io/badge/Rust%20%2F%20Anchor-663399?style=flat-square&logo=rust&logoColor=white"/>
+<img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Pre--launch-orange?style=flat-square"/>
+
+<br/><br/>
+
+### 🛫 [JetSetter](https://www.jetsetterss.com/)
+
+Luxury travel platform for cruises, hotels, and flights — live site with cruise API integration.
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+
+<br/><br/>
+
+### ⚓ [Anchor Program](https://github.com/Quadwinner/anchor)
+
+Solana program built with the Anchor framework — Rust smart contract development on-chain.
+
+<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
+<img src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white"/>
+
 </div>
 
 ---
