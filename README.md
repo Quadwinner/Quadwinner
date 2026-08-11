@@ -116,10 +116,23 @@ Hey there! I'm <b>Shubham</b>, a passionate <b>Full Stack Developer</b> with dee
 <div align="center">
   <table>
     <tr>
+      <td width="100%" align="center">
+        <h3>⛓️ <a href="https://www.nivixpe.com/">NivixPe</a></h3>
+        <p><strong>Cross-Border Payments on Solana</strong></p>
+        <p>Blockchain-powered cross-border payments with near-zero fees and sub-2-second settlement. Incubated at Bennett Hatchery, seed-funded. Currently pre-launch — India–UAE beta opening soon, <a href="https://www.nivixpe.com/">join the waitlist</a>.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Solana-9945FF?style=flat&logo=solana&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Rust_%2F_Anchor-663399?style=flat&logo=rust&logoColor=white"/>
+          <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black"/>
+          <img src="https://img.shields.io/badge/Pre--launch-orange?style=flat"/>
+        </p>
+      </td>
+    </tr>
+    <tr>
       <td width="50%" align="center">
-        <h3>🛫 <a href="https://github.com/Quadwinner/jetsetter">JetSetter</a></h3>
-        <p><strong>Travel Booking Platform</strong></p>
-        <p>A seamless travel booking experience designed for modern travelers.</p>
+        <h3>🛫 <a href="https://www.jetsetterss.com/">JetSetter</a></h3>
+        <p><strong>Luxury Travel Platform</strong></p>
+        <p>A curated cruise, hotel, and flight booking experience with live cruise API integration.</p>
         <p>
           <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
           <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
@@ -127,57 +140,13 @@ Hey there! I'm <b>Shubham</b>, a passionate <b>Full Stack Developer</b> with dee
         </p>
       </td>
       <td width="50%" align="center">
-        <h3>📱 <a href="https://github.com/Quadwinner/jetsetter-android">JetSetter Android</a></h3>
-        <p><strong>Mobile Travel Companion</strong></p>
-        <p>The native Android experience for JetSetter users on the go.</p>
-        <p>
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-          <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black"/>
-          <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white"/>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center">
-        <h3>⚓ <a href="https://github.com/Quadwinner/anchor">Anchor</a></h3>
-        <p><strong>Solana Framework</strong></p>
-        <p>Contributing to the most powerful Solana Sol development framework.</p>
+        <h3>⚓ <a href="https://github.com/Quadwinner/anchor">Anchor Program</a></h3>
+        <p><strong>Solana Smart Contract</strong></p>
+        <p>A Solana program built with the Anchor framework for on-chain development.</p>
         <p>
           <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"/>
           <img src="https://img.shields.io/badge/Solana-9945FF?style=flat&logo=solana&logoColor=white"/>
           <img src="https://img.shields.io/badge/Blockchain-121D33?style=flat&logo=blockchain&logoColor=white"/>
-        </p>
-      </td>
-      <td width="50%" align="center">
-        <h3>🎮 <a href="https://github.com/Quadwinner/Epicesports">Epicesports</a></h3>
-        <p><strong>Gaming Tournament Platform</strong></p>
-        <p>A competitive gaming platform for esports tournaments and events.</p>
-        <p>
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Esports-FF4500?style=flat&logo=cplusplus&logoColor=white"/>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center">
-        <h3>✨ <a href="https://github.com/Quadwinner/Alouora">Alouora</a></h3>
-        <p><strong>Modern Web App</strong></p>
-        <p>A high-performance full-stack web application with modern UI/UX.</p>
-        <p>
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-          <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-          <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white"/>
-        </p>
-      </td>
-      <td width="50%" align="center">
-        <h3>📊 <a href="https://github.com/Quadwinner/Stratnova">Stratnova</a></h3>
-        <p><strong>Strategic Analytics</strong></p>
-        <p>Data-driven strategy and analytics platform for business growth.</p>
-        <p>
-          <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Analytics-4285F4?style=flat&logo=google-analytics&logoColor=white"/>
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
         </p>
       </td>
     </tr>
@@ -236,7 +205,7 @@ Hey there! I'm <b>Shubham</b>, a passionate <b>Full Stack Developer</b> with dee
   <img src="https://img.shields.io/badge/⚓_Anchor-Solana%20Programs-purple?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/🏗️_System-Design-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/☁️_Cloud-Architecture-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/�_Smart_Contract-Security-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🔒_Smart_Contract-Security-red?style=for-the-badge"/>
 </p>
 
 ---
