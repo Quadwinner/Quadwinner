@@ -1,10 +1,10 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:36BCF7&height=200&section=header&text=Shubham%20Kumar%20Kushwaha&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web2%20%26%20Web3%20Developer&descAlignY=55&descSize=18" width="100%" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:36BCF7&height=200&section=header&text=Shubham%20Kumar%20Kushwaha&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Co-Founder%20%26%20CTO%2C%20NivixPe%20%7C%20Full%20Stack%20Web2%20%26%20Web3%20Developer&descAlignY=55&descSize=16" width="100%" alt="Header"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&repeat=true&width=700&lines=Building+the+Decentralized+Future+%E2%9B%93%EF%B8%8F;Solana+%E2%80%A2+Ethereum+%E2%80%A2+DeFi;Turning+Coffee+into+Code+%E2%98%95" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&repeat=true&width=700&lines=Building+Cross-Border+Payments+on+Solana+%E2%9B%93%EF%B8%8F;Solana+%E2%80%A2+Rust+%2F+Anchor+%E2%80%A2+React+%2F+Node;Turning+Coffee+into+Code+%E2%98%95" alt="Typing SVG" />
 </div>
 
 <!-- Social Badges -->
@@ -18,6 +18,9 @@
   <a href="mailto:shubhamkush012@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+  <a href="https://www.nivixpe.com/">
+    <img src="https://img.shields.io/badge/NivixPe-2F81F7?style=for-the-badge&logo=solana&logoColor=white" alt="NivixPe"/>
+  </a>
   <img src="https://komarev.com/ghpvc/?username=Quadwinner&label=Profile%20Views&color=2F81F7&style=for-the-badge" alt="Profile Views"/>
 </p>
 
@@ -29,12 +32,13 @@
 
 ```typescript
 const shubham = {
-  location: "India 🇮🇳",
-  role: "Full Stack Web2 & Web3 Developer",
-  building: "Solana-based Payment Gateway",
-  learning: ["Rust", "Anchor Framework", "System Design"],
-  blockchain: ["Solana", "Ethereum", "Smart Contracts", "DeFi"],
-  askMeAbout: ["React", "Node.js", "Blockchain", "System Design"],
+  location: "Greater Noida, India 🇮🇳",
+  role: "Co-Founder & CTO @ NivixPe",
+  building: "Cross-border payments on Solana",
+  studying: "B.Tech CSE @ Bennett University",
+  stack: ["Rust / Anchor", "React", "Node.js", "TypeScript"],
+  blockchain: ["Solana", "Smart Contracts", "DeFi"],
+  askMeAbout: ["Solana programs", "payment infra", "system design"],
   funFact: "Slept through an earthquake once 🛌💤"
 };
 ```
@@ -67,25 +71,37 @@ const shubham = {
 
 <p>
   <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" alt="Solana"/>
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum"/>
   <img src="https://img.shields.io/badge/Anchor-663399?style=for-the-badge&logo=anchor&logoColor=white" alt="Anchor"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum"/>
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
   <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3.js"/>
-  <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black" alt="Hardhat"/>
 </p>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Work
 
 <div align="center">
 <table>
   <tr>
+    <td width="100%" valign="top">
+      <h3 align="center">⛓️ <a href="https://www.nivixpe.com/">NivixPe</a></h3>
+      <p align="center">Blockchain-powered cross-border payments built on Solana — near-zero fees, sub-2-second settlement. Incubated at Bennett Hatchery, seed-funded. Currently pre-launch, India–UAE beta opening soon — <a href="https://www.nivixpe.com/">join the waitlist</a>.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Rust%20%2F%20Anchor-663399?style=flat-square&logo=rust&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Pre--launch-orange?style=flat-square"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🛫 <a href="https://github.com/Quadwinner/jetsetter">JetSetter</a></h3>
-      <p align="center">A seamless travel booking platform designed for modern travelers.</p>
+      <h3 align="center">🛫 <a href="https://www.jetsetterss.com/">JetSetter</a></h3>
+      <p align="center">Luxury travel platform for cruises, hotels, and flights — live site with cruise API integration.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
@@ -93,47 +109,11 @@ const shubham = {
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📱 <a href="https://github.com/Quadwinner/jetsetter-android">JetSetter Android</a></h3>
-      <p align="center">The native mobile experience for JetSetter users on the go.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">⚓ <a href="https://github.com/Quadwinner/anchor">Anchor</a></h3>
-      <p align="center">Contributing to the most powerful Solana development framework.</p>
+      <h3 align="center">⚓ <a href="https://github.com/Quadwinner/anchor">Anchor Program</a></h3>
+      <p align="center">Solana program built with the Anchor framework — Rust smart contract development on-chain.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
         <img src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🎮 <a href="https://github.com/Quadwinner/Epicesports">Epicesports</a></h3>
-      <p align="center">A competitive platform for esports tournaments and events.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">✨ <a href="https://github.com/Quadwinner/Alouora">Alouora</a></h3>
-      <p align="center">A high-performance full-stack web app with modern UI/UX.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📊 <a href="https://github.com/Quadwinner/Stratnova">Stratnova</a></h3>
-      <p align="center">Data-driven strategy and analytics platform for business growth.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
       </p>
     </td>
   </tr>
@@ -186,7 +166,7 @@ const shubham = {
 ## 🤝 Let's Connect
 
 <div align="center">
-  <p><em>Always excited to collaborate on innovative Web3 projects and blockchain solutions!</em></p>
+  <p><em>Always excited to collaborate on Web3 infrastructure and payments technology!</em></p>
   <a href="https://www.linkedin.com/in/shubham-kushwaha-038940249/">
     <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
